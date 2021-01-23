@@ -13,6 +13,7 @@
     "@xstate/inspect": "^0.2.0",
     "@xstate/react": "^1.0.2",
     "@xstate/test": "^0.4.1",
+    "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-markdown": "^5.0.2",
@@ -43,7 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "node-sass": "^4.14.1"
-  }
+  "devDependencies": {}
 }
